@@ -39,4 +39,5 @@ Random Screenshot\
 - [x] Do the dishes
 - [ ] Do laundry
 - [ ] \(Take the trash out
-- [ ] :sunglasses: :confused: :anguished: :sparkling_heart: :right_anger_bubble:
+
+:sunglasses: :confused: :anguished: :sparkling_heart: :right_anger_bubble:
