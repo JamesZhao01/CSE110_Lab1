@@ -10,4 +10,4 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Github Docs](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax) and ![Image](img.png)
