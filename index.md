@@ -16,7 +16,7 @@
 Commands: `cd`, `ls`, `whoami`
 
 [Github Docs](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)\
-[Smaller Heading Link](#header-2)\
+[Smaller Heading Link](#smaller-heading)\
 [README link](README.md)\
 
 - Top
@@ -33,7 +33,10 @@ Commands: `cd`, `ls`, `whoami`
    - Nest
      - Nest Nest
 
+Random Screenshot\
+![Image](img.png)
 
-**Bold** and _Italic_ and `Code` text
-
- and ![Image](img.png)
+- [x] Do the dishes
+- [ ] Do laundry
+- [ ] \(Take the trash out
+- [ ] :sunglasses: :confused: :anguished: :sparkling_heart: :right_anger_bubble:
