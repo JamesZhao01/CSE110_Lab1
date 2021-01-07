@@ -1,40 +1,35 @@
-# Large heading
-## Smaller Heading
-### Even Smaller Heading
-#### Significantly Smaller Heading
-##### Even Significantly Smaller Heading
-###### Smallest Heading
+# James's Website
 
-**Bold Text**\
-*Italic Text*\
-~~Mistsake~~\
-**_Italic_ within Bold**\
-***Italic and Bold***\
+I am majoring in **CS** and minoring in *Math*\
+I despise ~~MMW 11, 12, 13, 14, 15~~\
+**I am bad at _programming_**\
+***I like Pizza***\
 
-> Fun Quote
+>
 
 Commands: `cd`, `ls`, `whoami`
 
 [Github Docs](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)\
 [Smaller Heading Link](#smaller-heading)\
-[README link](README.md)\
 
-- Top
-- Mid
+
+Roles I play in League
 - Bot
-- Jg
 - Supp
 
-1. First
-2. Second
-3. Third
+Favorite league champions
+1. Lux
+2. Morgana
+3. Ezreal
 
 4. List
    - Nest
      - Nest Nest
 
-Random Screenshot\
-![Image](img.png)
+Favorite fruit\
+![Image](mango.png)
+
+[MANGO](mango.jpg)\
 
 - [x] Do the dishes
 - [ ] Do laundry
