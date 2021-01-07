@@ -3,11 +3,13 @@
 I am majoring in **CS** and minoring in *Math*\
 I despise ~~MMW 11, 12, 13, 14, 15~~\
 **I am bad at _programming_**\
-***I like Pizza***\
+***I like Pizza***
 
->
+> I think therefore I am - Rene Descartes
 
-Commands: `cd`, `ls`, `whoami`
+Commands: `cd`, `ls`, `whoami`\
+
+`System.out.println("Hello World")`
 
 [Github Docs](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)\
 [Link to top](#jamess-website)
