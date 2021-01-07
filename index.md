@@ -10,7 +10,7 @@ I despise ~~MMW 11, 12, 13, 14, 15~~\
 Commands: `cd`, `ls`, `whoami`
 
 [Github Docs](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)\
-[Smaller Heading Link](#smaller-heading)\
+[Link to top](#jamess-website)
 
 
 Roles I play in League
@@ -22,15 +22,20 @@ Favorite league champions
 2. Morgana
 3. Ezreal
 
-4. List
-   - Nest
-     - Nest Nest
+Homework assignments
+- CSE
+  - 110
+    - take screenshots of stuff
+  - 101
+    - Big O stuff
+  - 132A
+    - database things
 
-Favorite fruit\
-![Image](mango.png)
-
+Favorite fruit
+![Image](mango.jpg)
 [MANGO](mango.jpg)\
 
+Todo List:
 - [x] Do the dishes
 - [ ] Do laundry
 - [ ] Take the trash out
