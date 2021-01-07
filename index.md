@@ -7,7 +7,7 @@ I despise ~~MMW 11, 12, 13, 14, 15~~\
 
 > I think therefore I am - Rene Descartes
 
-Commands: `cd`, `ls`, `whoami`\
+Commands: `cd`, `ls`, `whoami`
 
 `System.out.println("Hello World")`
 
@@ -35,7 +35,7 @@ Homework assignments
 
 Favorite fruit
 ![Image](mango.jpg)
-[MANGO](mango.jpg)\
+[MANGO](mango.jpg)
 
 Todo List:
 - [x] Do the dishes
